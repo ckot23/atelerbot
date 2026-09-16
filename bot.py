@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # =================== CONFIG ===================
 TOKEN     = '8943280869:AAHFxKGh5R-jYh0OJot5xOoPp_nbt7E04pk'
 ADMIN_ID  = 7114829971
-SITE_URL  = 'https://ckot-23.github.io'   # замени на свой URL сайта
+SITE_URL  = 'https://ckot23.github.io/ATELIER_Bot.io/'   # замени на свой URL сайта
 # ==============================================
 
 # States
